@@ -1,6 +1,6 @@
 # Guess_My_Password
 
-> ## Guess my password is a games:
+> ## Guess my password is a game:
 >
 > - Asks for input from a user to guess the password
 > - When input has been given it get stored to a variable
